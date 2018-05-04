@@ -1,0 +1,7 @@
+Dance Score : 0.3
+-------------------------------------------
+normalized_distance : 55.4514884866
+orientation_activity : 0.765325968281
+common_orientation_point : 2.10249307479
+low_change_in_position : 170.56097659
+full_circle_detections : 1.30434782609
